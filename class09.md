@@ -5,7 +5,7 @@
 ![http structure](https://miro.medium.com/max/1838/1*i2tUjWy44-dYT9qsaWbvig.png)
 1. Local Processing:
 browser will generate scheme .
-<protocol>://<host><:optional port>/<path/to/resource><?query>
+
 and then browser find ip adrees by search on cache of recently requested urls
 
 2. Resolve an IP:
