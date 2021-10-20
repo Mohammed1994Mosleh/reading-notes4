@@ -9,3 +9,4 @@
 | class05 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class05)               |
 | class06 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class06)               |
 | class08 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class08)               |
+| class09 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class09)               |
