@@ -11,3 +11,4 @@
 | class08 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class08)               |
 | class09 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class09)               |
 | class11 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class11)               |
+| class12 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class12)               |
