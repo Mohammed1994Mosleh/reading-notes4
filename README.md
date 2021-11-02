@@ -17,6 +17,7 @@
 | class16 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class16)               |
 | class17 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class17)               |
 | class18 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class18)               |
+| class19 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class19)               |
 
 
 
