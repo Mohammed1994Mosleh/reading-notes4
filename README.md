@@ -20,6 +20,8 @@
 | class19 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class19)               |
 | class26 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class26)               |
 | class27 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class27)               |
+| class28 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class28)               |
+
 
 
 
