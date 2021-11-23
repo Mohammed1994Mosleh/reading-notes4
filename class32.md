@@ -1,4 +1,4 @@
-# class 33 Reading Notes:Serverless and AmplifyEspresso Test
+# class 32 Reading Notes:Serverless and AmplifyEspresso Test
 
 ## what is serverless architecture?
 ![](https://cdn2.hubspot.net/hubfs/5129222/Imported_Blog_Media/serverless-architecture-590x474-1.png)
