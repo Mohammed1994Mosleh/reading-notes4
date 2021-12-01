@@ -31,6 +31,7 @@
 | class36 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class36)               |
 | class37 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class37)               |
 | class38 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class38)               |
+| class39 | [link](https://mohammed1994mosleh.github.io/reading-notes4/class39)               |
 
 
 
