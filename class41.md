@@ -1,4 +1,4 @@
-# class 38 Reading Notes: Intent Filter
+# class 41 Reading Notes: Intent Filter
 
 ![](https://sites.google.com/site/mobilesecuritylabware/_/rsrc/1351190193805/6-mobile-coding-vulnerability/lab-activities/lab2-android-activities-with-intent-security/1.png)
 
